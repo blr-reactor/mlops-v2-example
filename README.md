@@ -15,9 +15,10 @@
 
 2. https://github.com/blr-reactor/mlopsv2-sparse/blob/main/data-science/src/evaluate/test_evaluate.py
 
----
+```
 mlflow.sklearn.save_model(sk_model=model, path=model_input)
----
+```
+
 
 ## Inner Loop - Create Pipeline - Prepare Data, Train, Evaluate, ResponsibleAI
 
