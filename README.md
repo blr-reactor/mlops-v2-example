@@ -42,4 +42,10 @@ mlflow.sklearn.save_model(sk_model=model, path=model_input)
 ## Inner Loop - Create Pipeline - Prepare Data, Train, Evaluate, ResponsibleAI
 
 1. https://github.com/blr-reactor/mlopsv2-sparse/actions/runs/3585372147
-2. https://github.com/blr-reactor/mlopsv2-sparse/blob/main/mlops/azureml/train/pipeline.yml
+2. https://github.com/blr-reactor/mlopsv2-sparse/blob/main/mlops/azureml/train/pipeline.
+
+
+
+## Deployment - Batch Endpoint and Realtime Inference
+
+1.https://github.com/blr-reactor/mlopsv2-sparse/blob/main/mlops/devops-pipelines/deploy-online-endpoint-pipeline.yml
